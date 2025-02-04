@@ -10,7 +10,6 @@ Az **ASCII ArtGuesser** egy interaktív játék, amelynek célja, hogy a játék
 - 🏆 **Pontozás:** A helyes válaszok alapján a játékos pontokat kap.
 - 📊 **Leaderboard:** A legjobb játékosok eredményeit rangsoroló tábla.
 - 📱 **Reszponzív dizájn:** A játék asztali és mobil eszközökön egyaránt játszható.
-- ♿ **Akadálymentesség:** Kontrasztos színek és olvasható betűtípusok biztosítják a könnyebb kezelhetőséget.
 
 ## ⚙️ Telepítés és futtatás
 
@@ -48,8 +47,6 @@ Az **ASCII ArtGuesser** egy interaktív játék, amelynek célja, hogy a játék
 
 - 🖼️ **Több festmény és művész** hozzáadása az adatbázishoz.
 - 🎮 **Nehezebb játékmódok** bevezetése.
-- 💬 **Felhasználói fórum** integrálása a festmények megvitatására.
-- 🔊 **Hangalapú akadálymentesség** a vakok és gyengénlátók számára.
 
 ## 👨‍💻 Fejlesztők
 
