@@ -33,15 +33,15 @@ Az **ASCII ArtGuesser** egy interaktív játék, amelynek célja, hogy a játék
 - 🎨 **Stílus:** Reszponzív webdizájn (CSS Media Queries)
 
 ## 📌 Menü
-![Térkép hegyekkel](assets/readme/ures_terkep_hegyekkel.png)
+![Menü](readme/start.png)
 
 
 ## 🎮 Játék
-![Térkép hegyekkel](assets/readme/ures_terkep_hegyekkel.png)
+![Játék](readme/game.png)
 
 
 ## 🏆 Pontszámok
-![Térkép hegyekkel](assets/readme/ures_terkep_hegyekkel.png)
+![Pontszámok](readme/end.png)
 
 
 ## 🔮 Fejlesztési lehetőségek
