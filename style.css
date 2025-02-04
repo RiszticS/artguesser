@@ -1,0 +1,126 @@
+body{
+    margin:0;
+    padding: 0;
+    background-color: black;
+    color:white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+
+/*Game*/
+h2{
+    text-align: center;
+}
+
+.button{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding:20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.button:hover{
+    background-color: rgb(39, 39, 39);    
+    color: white;
+}
+
+.canvas{
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+main{
+    border: 1px white solid;
+}
+
+
+/*****************************************************************/
+
+/*Start menu*/
+.startmenu{
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 1px white solid;
+    text-align: center;
+    padding:20px;
+    min-height: 300px;
+}
+
+.startmenu h2{
+    margin-bottom: 30px;
+}
+
+.startmenu label{
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+.startmenu input:hover, label:hover{
+    color: rgb(180, 180, 180);
+}
+
+.startgamebutton{
+    background-color: rgb(33, 33, 33);
+    color:white;
+    border: none;
+    font-size: 25px;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 10px;
+}
+
+.startgamebutton:hover{
+    background-color: rgb(56, 56, 56);
+}
+
+.radio{
+    accent-color: rgb(153, 153, 153); ;
+    cursor: pointer;
+}
+
+button{
+    background-color: rgba(0, 0, 0, 0);
+    background-color: rgb(214, 139, 139);
+    background-color: rgb(139, 214, 139);
+    margin-bottom: 0;
+}
+
+/*****************************************************************/
+
+/*Leaderboard*/
+.leaderboard{
+    margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    text-align: center;
+    padding:20px;
+    min-height: 300px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+th{
+    font-size: 22px;
+}
+tr{
+    padding: 20px;
+}
+/*****************************************************************/
+
+@media only screen and (max-width: 700px) {
+    .startmenu,.leaderboard{
+        width: 90%;
+    }
+  }
+  
