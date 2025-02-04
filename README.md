@@ -1,4 +1,4 @@
-# 🎨 ASCII ArtGuesser - Művészeti Találgató Játék
+# 🎨 ASCII ArtGuesser
 
 ## 📖 Bevezetés
 
